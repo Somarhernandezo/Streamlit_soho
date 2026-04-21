@@ -101,3 +101,5 @@ if st.button("Predecir"):
         st.error("⚠️ Es adicto al smartphone")
     else:
         st.success("✅ No es adicto al smartphone")
+
+        # https://streamlit-soho-8.onrender.com
