@@ -13,8 +13,8 @@ st.title("📱 Predicción de Adicción al Smartphone")
 
 st.markdown("## 🧑‍🤝‍🧑 Datos del usuario")
 
-age = st.slider("Edad", 12, 100, 25)
-gender = st.selectbox("Género", ["Masculino", "Femenino", "Otro"])
+age = st.slider("Edad", 12, 100, 55)
+gender = st.selectbox("Género", ["Masculino", "Femenino"])
 
 st.markdown("## 🕒 Tiempo de uso del Smartphone")
 
